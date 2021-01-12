@@ -1,2 +1,3 @@
 Deni Resolusi :
 - Konsisten jan males-malesan coy
+- Bisa CI sama laravel yok
