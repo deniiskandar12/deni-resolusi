@@ -2,4 +2,5 @@
   * CI 4
 - Laravel
 - Godev
+- SCSS
 - Algorithm
